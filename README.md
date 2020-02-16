@@ -1,1 +1,2 @@
 # groupactivity-blackpink
+activity
